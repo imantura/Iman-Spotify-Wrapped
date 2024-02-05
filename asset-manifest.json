@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Iman-Spotify-Wrapped/static/css/main.68f19faa.css",
+    "main.js": "/Iman-Spotify-Wrapped/static/js/main.797fc984.js",
+    "static/media/backgroundimage.jpg": "/Iman-Spotify-Wrapped/static/media/backgroundimage.24578c6a053bfade9daf.jpg",
+    "index.html": "/Iman-Spotify-Wrapped/index.html",
+    "main.68f19faa.css.map": "/Iman-Spotify-Wrapped/static/css/main.68f19faa.css.map",
+    "main.797fc984.js.map": "/Iman-Spotify-Wrapped/static/js/main.797fc984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f19faa.css",
+    "static/js/main.797fc984.js"
+  ]
+}
